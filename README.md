@@ -1,2 +1,1 @@
-# chrome
-chrome 插件模板
+# chrome plus
